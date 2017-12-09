@@ -1,0 +1,1 @@
+The thirty bees carrier compare module allows users to check different carrier prices without logging in to your site. The module works with third party carrier modules as well.

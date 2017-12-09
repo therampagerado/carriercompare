@@ -1,0 +1,14 @@
+module_name: Carrier Compare
+compatible_versions: 1.0.0+
+author: thirty bees
+category: shipping
+tags:
+  - carrier
+  - carrier compare
+  - shipping
+  - shipping price
+description_short: The carrier compare module allows users to compare carrier rates without logging in on your site
+description: description.md
+images:
+  - image-1.png
+license: AFL
